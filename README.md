@@ -4,7 +4,7 @@
 
 IntegrityHub is an all-encompassing whistleblower solution tailored to amplify the voices of vulnerable groups, allowing them to report wrongdoings safely and anonymously. With cutting-edge technology, we assure that reports are methodically processed and displayed in an intuitive dashboard for actionable insights.
 
-![Dashboard Preview](/assets/ezgif.com-video-to-gif (5).gif)
+![Dashboard Preview](https://github.com/Sa4d/IntegrityHub/blob/c6531269096a09d7079457b636e137e62d073a60/assets/ezgif.com-video-to-gif%20(5).gif)
 
 ## Features
 
